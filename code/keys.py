@@ -67,7 +67,8 @@ ctx = Context()
 ctx.lists['self.modifier'] = {
     'command': 'cmd',
     'control': 'ctrl',   #'troll':   'ctrl',
-    'shift':   'shift',  #'sky':     'shift',
+    #'shift':   'shift',  #'sky':     'shift',
+    'sky':     'shift',
     'alt':     'alt',    'option':  'alt',
     'super':   'super',
 }
